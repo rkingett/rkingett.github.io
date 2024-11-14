@@ -1,14 +1,71 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Bear Cub</title>
+    <title>Tags on </title>
     <link>https://rkingett.github.io/tags/</link>
-    <description>Recent content in Tags on Bear Cub</description>
+    <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <managingEditor>me@example.com (Robert Kingett)</managingEditor>
-    <webMaster>me@example.com (Robert Kingett)</webMaster>
+    <language>en</language>
+    <managingEditor>kingettr@gmail.com (Robert Kingett)</managingEditor>
+    <webMaster>kingettr@gmail.com (Robert Kingett)</webMaster>
     <copyright>Robert Kingett (CC BY 4.0)</copyright>
+    <lastBuildDate>Sun, 10 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://rkingett.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Activities</title>
+      <link>https://rkingett.github.io/tags/activities/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate><author>kingettr@gmail.com (Robert Kingett)</author>
+      <guid>https://rkingett.github.io/tags/activities/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Interpersonal</title>
+      <link>https://rkingett.github.io/tags/interpersonal/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate><author>kingettr@gmail.com (Robert Kingett)</author>
+      <guid>https://rkingett.github.io/tags/interpersonal/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Css</title>
+      <link>https://rkingett.github.io/tags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><author>kingettr@gmail.com (Robert Kingett)</author>
+      <guid>https://rkingett.github.io/tags/css/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Html</title>
+      <link>https://rkingett.github.io/tags/html/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><author>kingettr@gmail.com (Robert Kingett)</author>
+      <guid>https://rkingett.github.io/tags/html/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>https://rkingett.github.io/tags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><author>kingettr@gmail.com (Robert Kingett)</author>
+      <guid>https://rkingett.github.io/tags/markdown/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Text</title>
+      <link>https://rkingett.github.io/tags/text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate><author>kingettr@gmail.com (Robert Kingett)</author>
+      <guid>https://rkingett.github.io/tags/text/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Emoji</title>
+      <link>https://rkingett.github.io/tags/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate><author>kingettr@gmail.com (Robert Kingett)</author>
+      <guid>https://rkingett.github.io/tags/emoji/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
   </channel>
 </rss>
