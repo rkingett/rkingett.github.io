@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Interpersonal on </title>
-    <link>https://rkingett.github.io/tags/interpersonal/</link>
+    <link>http://localhost:1313/tags/interpersonal/</link>
     <description>Recent content in Interpersonal on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -10,12 +10,12 @@
     <webMaster>kingettr@gmail.com (Robert Kingett)</webMaster>
     <copyright>Robert Kingett (CC BY 4.0)</copyright>
     <lastBuildDate>Sun, 10 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://rkingett.github.io/tags/interpersonal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/interpersonal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Hobbies</title>
-      <link>https://rkingett.github.io/blog/rich-content/</link>
+      <link>http://localhost:1313/blog/rich-content/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate><author>kingettr@gmail.com (Robert Kingett)</author>
-      <guid>https://rkingett.github.io/blog/rich-content/</guid>
+      <guid>http://localhost:1313/blog/rich-content/</guid>
       <description>&lt;p&gt;X&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>X</p>
 <hr>
