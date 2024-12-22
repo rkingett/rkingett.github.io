@@ -1,0 +1,33 @@
+{
+  "graph": {
+    "/posts/post-1/": {
+      "in": [],
+      "out": []
+    },
+    "/posts/post-2/": {
+      "in": [],
+      "out": []
+    },
+    "/posts/post-3/": {
+      "in": [],
+      "out": []
+    }
+  },
+  "pages": {
+    "/posts/post-1/": {
+      "permalink": "/posts/post-1/",
+      "section": "posts",
+      "title": "Post 1"
+    },
+    "/posts/post-2/": {
+      "permalink": "/posts/post-2/",
+      "section": "posts",
+      "title": "Post 2"
+    },
+    "/posts/post-3/": {
+      "permalink": "/posts/post-3/",
+      "section": "posts",
+      "title": "Post 3"
+    }
+  }
+}

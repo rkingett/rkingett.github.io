@@ -2,58 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
+    <loc>rkingett.github.io/</loc>
+    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
+    <loc>rkingett.github.io/tags/blue/</loc>
+    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/activities/</loc>
-    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
+    <loc>rkingett.github.io/tags/green/</loc>
+    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/interpersonal/</loc>
-    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
+    <loc>rkingett.github.io/posts/post-3/</loc>
+    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/rich-content/</loc>
-    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
+    <loc>rkingett.github.io/tags/red/</loc>
+    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
+    <loc>rkingett.github.io/tags/</loc>
+    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>rkingett.github.io/posts/post-2/</loc>
+    <lastmod>2023-02-15T10:00:00-07:00</lastmod>
+  </url><url>
+    <loc>rkingett.github.io/posts/post-1/</loc>
+    <lastmod>2023-01-15T09:00:00-07:00</lastmod>
+  </url><url>
+    <loc>rkingett.github.io/posts/</loc>
+    <lastmod>2023-01-01T08:30:00-07:00</lastmod>
+  </url><url>
+    <loc>rkingett.github.io/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>rkingett.github.io/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/css/</loc>
+    <loc>rkingett.github.io/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/html/</loc>
+    <loc>rkingett.github.io/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
+    <loc>rkingett.github.io/tags/index/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/markdown-syntax/</loc>
+    <loc>rkingett.github.io/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/syntax/</loc>
+    <loc>rkingett.github.io/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/themes/</loc>
+    <loc>rkingett.github.io/post/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/placeholder-text/</loc>
+    <loc>rkingett.github.io/categories/syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>rkingett.github.io/categories/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>rkingett.github.io/tags/privacy/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>rkingett.github.io/post/rich-content/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>rkingett.github.io/tags/shortcodes/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>rkingett.github.io/post/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/text/</loc>
+    <loc>rkingett.github.io/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/math-typesetting/</loc>
+    <loc>rkingett.github.io/post/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/emoji/</loc>
+    <loc>rkingett.github.io/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/emoji-support/</loc>
+    <loc>rkingett.github.io/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>rkingett.github.io/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
 </urlset>
